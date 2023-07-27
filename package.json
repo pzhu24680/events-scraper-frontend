@@ -1,6 +1,6 @@
 {
   "name": "event_scraper_frontend",
-  "homepage": "https://pzhu24680.github.io/event-scraper-frontend",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
